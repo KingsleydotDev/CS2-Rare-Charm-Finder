@@ -45,7 +45,7 @@ Make sure you have Python 3 installed. You will also need to install the followi
 
 4. Run the Python script:
    ```bash
-   python charm_finder.py
+   CS2 Rare Charm Finder.py
    ```
 
 ## How to Use
