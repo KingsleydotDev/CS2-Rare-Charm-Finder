@@ -7,6 +7,8 @@ The **Kingsley Charm Finder** is a Python application with a GUI that allows use
 
 The application is built using `tkinter` for the GUI, `requests` for HTTP requests, and `BeautifulSoup` for scraping the Steam Market pages.
 
+![](https://i.imgur.com/xgamHhX.png)
+
 ## Features
 
 - **Search for Charms**: Choose a charm from a dropdown menu, input a page range, and specify template number ranges.
